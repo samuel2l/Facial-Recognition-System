@@ -232,4 +232,3 @@ if __name__ == "__main__":
     app = App()
     app.start()
 
-# import face_recognition
